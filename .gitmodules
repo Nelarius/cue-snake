@@ -1,0 +1,6 @@
+[submodule "extern/wren"]
+	path = extern/wren
+	url = https://github.com/munificent/wren.git
+[submodule "extern/wrenpp"]
+	path = extern/wrenpp
+	url = https://github.com/Nelarius/wrenpp.git
